@@ -1,2 +1,2 @@
 # Proactive-Device-Quality-Signal-Detection
-A Data Analytic Project
+Proactive Device Quality Insight Pipeline
